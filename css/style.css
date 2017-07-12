@@ -45,7 +45,7 @@ a {
   color: white;
 }
 a:hover {
-  background-color: white;
+  border-color: white;
 }
 main {
   width: 850px;
